@@ -1,0 +1,19 @@
+.head{
+
+    background-color: tomato;
+    margin: 10px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 5px 5px 5px black ;
+
+}
+.pera{
+    background-color: aquamarine;
+    margin: none;
+    padding: 20px;
+    text-align: justify;
+    font-weight: bold;
+}
